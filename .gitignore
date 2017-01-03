@@ -1,0 +1,16 @@
+.DS_STORE
+node_modules
+*~
+*.pyc
+static
+.grunt
+_SpecRunner.html
+__benchmarks__
+dist/
+coverage/
+.module-cache
+*.gem
+*.log*
+chrome-user-data
+*.sublime-project
+*.sublime-workspace

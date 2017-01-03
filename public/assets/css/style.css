@@ -1,0 +1,12 @@
+.next-enter {
+  transition: opacity 700ms ease-out;
+  opacity: 0;
+}
+
+.next-enter.next-enter-active {
+  opacity: 1;
+}
+
+.next-leave {
+  opacity: 0;
+}
