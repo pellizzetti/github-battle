@@ -1,6 +1,10 @@
 # Github Battle
 
-This is the final project of the React.js Fundamentals course.
+This a project of the React.js Fundamentals course.
+
+Enter two GitHub usernames to battle against each other.
+
+The data of each user will be fetched from GitHub API. A simple calculation will be made to determine the winner, the loser or if a tie happened.
 
 ## Requirements
 
@@ -36,7 +40,7 @@ This will start a development server that provides live reloading, listening on 
 To run a production bundle:
 
 ```
-npm production
+npm run production
 ```
 
 ## License
