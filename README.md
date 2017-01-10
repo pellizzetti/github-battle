@@ -1,6 +1,6 @@
 # Github Battle
 
-This a project of the React.js Fundamentals course.
+This is a project of the React.js Fundamentals course.
 
 Enter two GitHub usernames to battle against each other.
 
